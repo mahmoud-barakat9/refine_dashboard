@@ -21,6 +21,7 @@ import {
     UsersForm,
     UsersHeader
 } from "@/components";
+import { Task } from "@/graphql/schema.types";
 
 
 const EditTask = () => {
